@@ -1,6 +1,6 @@
 = Decentralized Arbitration and Mediation Network (DAMN)
 
-_Funding Proposal by Third Key Solutions, LLC_
+_Research and Project Proposal by Third Key Solutions, LLC_
 
 We have a global, borderless communication and transaction platform. We have global, borderless money. Why not a global, borderless justice system? An opt-in justice system. One that serves the community. Designed by the community, for the community. A robust system, that can address simple issues quickly and inexpensively, but can also address complex issues when needed. One that offers options, layers of choices, like who will decide (with options of one person or algorithm, pools of random jurors, pools of experts, collaboration of the parties, a mediation DAO, etc.), how long the decision-making process will take, and whether the dispute and the resolution will be made public or remain private.
 
@@ -28,7 +28,7 @@ Building a decentralized dispute resolution system is a challenging and ambitiou
 
 == Our Strategic Vision
 
-With this project, we hope to decentralize and uncouple the functions of dispute resolution from national borders. We hope to bring solutions that provide real value to contract parties, making for more efficient, effective, accessible, inexpensive applications of justice in commerce.
+With this project, we hope to decentralize and uncouple the functions of dispute resolution from national borders. We hope to offer solutions that provide real value to contract parties, making for more efficient, effective, accessible, inexpensive applications of justice in commerce.
 
 * Design a suite of simple dispute resolution smart contracts that can be easily and quickly incorporated into other types of smart contracts
 * Bridge smart contracts and traditional commercial/contract law relating to dispute resolution
@@ -119,11 +119,11 @@ To be determined during phase 1 and subject of a new proposal: estimated $50,000
 
 ==== Milestone 2 - Tentative Team
 
-The expenditures for the second proposal will consist of funding for one more of each of the following Legal Expert, Technical Expert, Solidity Developer(s), UI/UX Designer(s) and Security Expert/Audit.
+The budget for the second proposal will include funding for one more of each of the following Legal Expert, Technical Expert, Solidity Developer(s), UI/UX Designer(s) and Security Expert/Audit.
 
 == Accountability and Transparency of Funding
 
-Funds will be held according to the rules of the funding platform. Ideally, the funds will be held in a multi-signature address in BTC or ETH and distributed according to a schedule. The funding contract signatories will be Pamela Morgan and Andreas M. Antonopoulos. Funds will be converted to ETH, BTC and USD as necessary to execute on the deliverables.
+Funds will be held according to the rules of the funding platform. Ideally, the funds will be held in a multi-signature address in BTC or ETH and distributed according to a schedule. We will provide a public accounting report for all funds consumed in Milestone 1. The funding contract signatories will be Pamela Morgan and Andreas M. Antonopoulos. Funds will be converted to ETH, BTC and USD as necessary to execute on the deliverables.
 
 == Licensing
 
@@ -154,9 +154,11 @@ Pamela Morgan :: Pamela is an entrepreneur, attorney and educator with degrees i
 
 Andreas M. Antonopoulos :: Andreas is a technologist and entrepreneur who has become one of the most well-known and well-respected figures in bitcoin and the broader crypto-currency space. Andreas is the author of “Mastering Bitcoin”, widely considered the best technical guide to bitcoin. With more than 20 years experience in security and distributed systems, he is responsible for technology strategy, security operations and security consulting at Third Key Solutions. Andreas will be the lead Technical Expert in this proposal.
 
+During Milestone 1 we hope to identify additional team members to work with us to implement the strategic vision. These include additional Legal and ADR Experts, additional Technical Experts, Solidity Developer(s), UI/UX Designer(s) and Security Expert(s)/Audit.
+
 == Collaboration
 
-This project will invite public participation and voluntary collaboration. All project activity will occur on public forums and open platforms, such as Github, reddit, etc.
+This project will invite public participation and voluntary collaboration. Project activity will occur on public forums and open platforms, such as Github, reddit, etc.
 
 
 == Further Reading
