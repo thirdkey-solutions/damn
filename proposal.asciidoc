@@ -30,7 +30,7 @@ Building a decentralized dispute resolution system is a challenging and ambitiou
 
 With this project, we hope to decentralize and uncouple the functions of dispute resolution from national borders. We hope to bring solutions that provide real value to contract parties, making for more efficient, effective, accessible, inexpensive applications of justice in commerce.
 
-* Design a suite of simple dispute resolution smart contracts that can be easily and quickly incorporated into smart contracts
+* Design a suite of simple dispute resolution smart contracts that can be easily and quickly incorporated into other types of smart contracts
 * Bridge smart contracts and traditional commercial/contract law relating to dispute resolution
 * Bring the unique capabilities of smart contracts to the broader ADR community
 * Expand the scope of ADR smart contracts to include and automate more and more of the mediation, arbitration, resolution and award functions
@@ -78,7 +78,7 @@ Approximately three months from funding to deliverable
 
 ==== Milestone 1 - Budget
 
-Note: Most of the expenses of this project will be incurred in USD. The budget is therefore priced in USD but will be converted in the funding proposal to ETH. Funds awarded to this proposal will be converted as needed to ETH, BTC or USD for payment of expenses.
+Note: Most of the expenses of this project will be incurred in USD, the budget is therefore priced in USD. Funds awarded to this proposal will be converted as needed to ETH, BTC or USD for payment of expenses.
 
 .Budget
 [cols="n,>e,m”,options="footer"]
@@ -93,7 +93,7 @@ Legal Expert :: Funding to allow one or more legal experts to be focused on the 
 
 Technical Expert :: Funding to allow one or more technical experts to provide part-time advisory services to the legal expert. The funds will be used for salary and business-related expenses.
 
-Training Expenses :: Short course training by accredited organizations, universities or widely recognized ADR institutions in the rules, frameworks and processes of ADR. Additional training will rapidly equip the lead Legal Expert with the necessary and current knowledge to evaluate different ADR frameworks. Training will also offer opportunities to engage with ADR subject-matter experts and engage those outside our community.
+Training Expenses :: Short course trainings by accredited organizations, universities or widely recognized ADR institutions in the rules, frameworks and processes of ADR. Additional training will rapidly equip the lead Legal Expert with the necessary and current knowledge to evaluate different ADR frameworks. Training will also offer opportunities to engage with ADR subject-matter experts and engage those outside our community.
 
 Note: The budget may be modified in order to adapt to changing circumstances or better allocate funds. It does not represent a commitment but rather a plan.
 
@@ -123,9 +123,7 @@ The expenditures for the second proposal will consist of funding for one more of
 
 == Accountability and Transparency of Funding
 
-CURRENTLY REVISING THIS SECTION.
-
-The funding contract signatories will be Pamela Morgan and Andreas M. Antonopoulos. Funds will be converted to ETH, BTC and USD as necessary to execute on the deliverables.
+Funds will be held according to the rules of the funding platform. Ideally, the funds will be held in a multi-signature address in BTC or ETH and distributed according to a schedule. The funding contract signatories will be Pamela Morgan and Andreas M. Antonopoulos. Funds will be converted to ETH, BTC and USD as necessary to execute on the deliverables.
 
 == Licensing
 
@@ -152,7 +150,7 @@ This proposal is submitted and will be managed by Third Key Solutions LLC (https
 
 Third Key Solutions designs solutions for corporate governance and individual security. We are focused on applying multi-signature and smart-contract technology to solve real-life problems, in bitcoin, ethereum and across the crypto-currency space. Third Key Solutions has repeatedly received requests for mediation, arbitration, and escrow. Lacking a decentralized and open platform to deliver these services, we have so far declined to engage. We need a DAMN solution! With expertise spanning both technology and law, Third Key Solutions is perfectly positioned to implement this proposal. Our desire to solve this problem is motivated in the best tradition of open-source: “scratch your own itch” <<9>>.
 
-Pamela Morgan :: Pamela is an entrepreneur, attorney and educator with degrees in Small Business Management, Business Administration with a concentration in Computer Programming, and Law. She began focusing her law practice on bitcoin and cryptocurrencies in early 2014. She is a widely respected authority on multi-signature governance and legal innovation with cryptocurrencies. She has been publicly advocating for the use of smart contracts and ADR, combined, since 2014. During 2014, she has completed three International Commercial Arbitration continuing legal education courses and one Mediation course. Pamela will be the lead Legal Expert in this proposal.
+Pamela Morgan :: Pamela is an entrepreneur, attorney and educator with degrees in Small Business Management, Business Administration with a concentration in Computer Programming, and Law. She began focusing her law practice on bitcoin and cryptocurrencies in early 2014. She is a widely respected authority on multi-signature governance and legal innovation with cryptocurrencies. She has been publicly advocating for the use of smart contracts and ADR, combined, since 2014. To date, she has completed three International Commercial Arbitration continuing legal education courses and one Mediation course. Pamela will be the lead Legal Expert in this proposal.
 
 Andreas M. Antonopoulos :: Andreas is a technologist and entrepreneur who has become one of the most well-known and well-respected figures in bitcoin and the broader crypto-currency space. Andreas is the author of “Mastering Bitcoin”, widely considered the best technical guide to bitcoin. With more than 20 years experience in security and distributed systems, he is responsible for technology strategy, security operations and security consulting at Third Key Solutions. Andreas will be the lead Technical Expert in this proposal.
 
@@ -164,7 +162,7 @@ This project will invite public participation and voluntary collaboration. All p
 == Further Reading
 [[[1]]] Wikipedia, “Convention on the Recognition and Enforcement of Foreign Arbitral Awards” https://en.wikipedia.org/wiki/Convention_on_the_Recognition_and_Enforcement_of_Foreign_Arbitral_Awards
 
-[[[2]]] These are broad statements and readers should be aware that once a local court is involved they may find reasons to circumvent the arbitration contract, if for example the parties didn't know they were agreeing to arbitration. Additionally, if the arbitration is not conducted properly, according to the requirements of international arbitration law, the award can be disregarded and the parties may be subject to that or another court's jurisdiction.
+[[[2]]] These are broad statements and readers should be aware that once a local court is involved they may find reasons to circumvent the arbitration contract if, for example, the parties didn't know they were agreeing to arbitration. Additionally, if the arbitration is not conducted properly, according to the requirements of international arbitration law, the award can be disregarded and the parties may be subject to that or another court's jurisdiction.
 
 [[[2]]] Wikipedia, “Alternative Dispute Resolution”
 https://en.wikipedia.org/wiki/Alternative_dispute_resolution
@@ -179,7 +177,7 @@ https://www.law.cornell.edu/wex/mediation
 [[[6]]] Legal Information Institute, Cornell University, “Arbitration”
 https://www.law.cornell.edu/wex/arbitration
 
-[[[7]]]  Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
+[[[7]]] Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
 
 [[[8]]] GNU Lesser General Public License v3.0 http://choosealicense.com/licenses/lgpl-3.0/
 
