@@ -55,7 +55,7 @@ var DAOProposal = ProposalContract.new(
     _totalCosts,
     _oneTimeCosts,
     _minDailyWithdrawLimit,
-    {from:_contractor, data:Proposal_code, gas: 4000000}, function(e, ProposalContract){
+    {from:eth.accounts[2], data:Proposal_code, gas: 4000000}, function(e, ProposalContract){
   if(!e) {
     
     if(!ProposalContract.address) {
